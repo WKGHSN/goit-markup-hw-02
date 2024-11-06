@@ -10,24 +10,7 @@ body {
     padding: 0;
 }
 
-* {
-    position: unset;
-    width: unset;
-    height: unset;
-    left: unset;
-    top: unset;
-    box-sizing: unset;
-    display: unset;
-    align-items: unset;
-    padding: unset;
-    flex-direction: unset;
-    gap: unset;
-    border-radius: unset;
-    box-shadow: unset;
-    order: unset;
-    flex-grow: unset;
-    border-bottom: unset;
-}
+
 h1,
 h2,
 h3 {
