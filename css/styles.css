@@ -34,7 +34,6 @@ h2,
 h3 {
     font-weight: 700;
     color: #000;
-
 }
 
 h1 {
@@ -107,7 +106,30 @@ a:focus {
 .phone_link:focus {
     color: #404bbf;
 }
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+}
 
+.order_button {
+    background-color: #4D5AE5;
+    color: white;
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.order_button:hover,
+.order_button:focus {
+    background-color: #404BBF;
+}
 .hero {
     text-align: center;
     padding: 50px;
@@ -131,7 +153,21 @@ a:focus {
 .order_button:focus {
     background-color: #005bb5;
 }
+.features h2 {
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-size: 2rem;
+}
 
+.features p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+    font-size: 1rem;
+    
+}
 .features ul {
     display: flex;
     justify-content: space-around;
