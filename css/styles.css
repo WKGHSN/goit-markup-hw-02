@@ -106,6 +106,13 @@ a:focus {
 .phone_link:focus {
     color: #404bbf;
 }
+
+.hero {
+    text-align: center;
+    padding: 50px;
+    background-color: #2e2f42;
+    
+}
 .hero-title {
     font-size: 56px;
     line-height: 1.07;
@@ -129,30 +136,13 @@ a:focus {
 .order_button:hover,
 .order_button:focus {
     background-color: #404BBF;
-}
-.hero {
-    text-align: center;
-    padding: 50px;
-    background-color: #f5f5f5;
-}
+}І
+
 
 .hero h1 {
     font-family: 'Raleway', sans-serif;
 }
 
-.order_button {
-    background-color: #0073e6;
-    color: white;
-    font-size: 1rem;
-    padding: 10px 20px;
-    border: none;
-    cursor: pointer;
-}
-
-.order_button:hover,
-.order_button:focus {
-    background-color: #005bb5;
-}
 .features h2 {
     font-weight: 500;
     line-height: 1.2;
@@ -187,6 +177,28 @@ a:focus {
     padding: 0;
 }
 
+.team {
+    background-color: #F4F4FD;
+}
+
+.team ul li {
+    background-color: #FFFFFF;
+}
+
+.team .feature-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.team .section-paragraph {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
 .team img {
     border-radius: 50%;
     margin-bottom: 10px;
